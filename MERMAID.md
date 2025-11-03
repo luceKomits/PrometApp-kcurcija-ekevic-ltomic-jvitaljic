@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A[Otvaranje aplikacije] --> B{Je li korisnik ulogiran?}
     B -- Ne --> C[Pregled vremena polazaka i stanica]
